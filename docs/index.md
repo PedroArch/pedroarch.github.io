@@ -6,8 +6,6 @@
 
 ### Projetos
 
-## Contato
-
 ## Meta
 
 Pedro Carvalho – [@PedrArch](https://twitter.com/PedroArch) – pedrofrancocarvalho@gmail.com
