@@ -1,6 +1,10 @@
 ## Bem vindo aos meus projetos do MBA Full Stack Developer do IGTI
 
-Os projetos
+### Exercicios
+
+[Cadastro de Nomes](https://pedroarch.github.io/cadastro-nomes)
+
+### Projetos
 
 ## Contato
 
