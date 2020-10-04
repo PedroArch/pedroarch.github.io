@@ -10,6 +10,6 @@
 
 Pedro Carvalho – [@PedrArch](https://twitter.com/PedroArch) – pedrofrancocarvalho@gmail.com
 
-Distributed under the MIT license. See [LICENSE](LICENSE) for more information.
+Distributed under the MIT license. See [LICENSE](https://github.com/PedroArch/pedroarch.github.io/blob/master/LICENSE) for more information.
 
 [https://github.com/PedroArch](https://github.com/PedroArch/)
