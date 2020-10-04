@@ -2,7 +2,7 @@
 
 ### Exercicios
 
-[Cadastro de Nomes](https://pedroarch.github.io/cadastro-nomes/) [Github Repository](https://github.com/PedroArch/cadastro-nomes)
+[Cadastro de Nomes](https://pedroarch.github.io/cadastro-nomes/) - [Github Repository](https://github.com/PedroArch/cadastro-nomes)
 
 ### Projetos
 
