@@ -5,6 +5,7 @@
 [Cadastro de Nomes](https://pedroarch.github.io/cadastro-nomes/) - [Github Repository](https://github.com/PedroArch/cadastro-nomes)
 
 ### Projetos
+Atividade Prévia do Módulo FDF - [Calculadora de IMC](https://pedroarch.github.io/calculadora-imc/) - [Github Repository](https://github.com/PedroArch/calculadora-imc/)
 
 ## Meta
 
