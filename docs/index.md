@@ -3,6 +3,7 @@
 ### Exercicios
 
 [Cadastro de Nomes](https://pedroarch.github.io/cadastro-nomes/) - [Github Repository](https://github.com/PedroArch/cadastro-nomes)
+[Seletor de Países](https://pedroarch.github.io/seletor-paises/) - [Github Repository](https://github.com/PedroArch/seletor-paises)
 
 ### Projetos
 Atividade Prévia do Módulo FDF - [Calculadora de IMC](https://pedroarch.github.io/calculadora-imc/) - [Github Repository](https://github.com/PedroArch/calculadora-imc/)
